@@ -1,2 +1,2 @@
 # GRAF
-GRAPH ATTENTION-AWARE FUSION NETWORKS
+Graph Attention-aware Fusion Networks
