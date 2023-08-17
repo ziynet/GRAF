@@ -33,10 +33,10 @@ GRAF is done.
 ```
 
 ### Data format: 
-Sample data is under the folder *sampledata*.
-Sample attentions obtained from HAN are under the folder *GRAF_results*. 
-Output files are also under *GRAF_results* folder. The name of folders stands for 'dataName_learningRate_hiddenSize_earlyStoppingPatience'. 
-Under that folder, there are multiple sub folders, each was named as GRAF_prob_x, where x is the % of the edges kept. Each subfolders have '_results.xlsx' keeping evaluation metrics for individual 10 runs and corresponding embeddings (in case they are needed for another downstream task).
+- Sample data is under the folder *sampledata*.
+- Sample attentions obtained from HAN are under the folder *GRAF_results*. 
+- Output files are also under *GRAF_results* folder. The name of folders stands for 'dataName_learningRate_hiddenSize_earlyStoppingPatience'. 
+- Under that folder, there are multiple sub folders, each was named as GRAF_prob_x, where x is the % of the edges kept. Each subfolders have '_results.xlsx' keeping evaluation metrics for individual 10 runs and corresponding embeddings (in case they are needed for another downstream task).
 
 ---
 
